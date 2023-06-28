@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "S3CreateAndList": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AWS_REGION": "us-east-1",
+        "AWS_PROFILE": "866758168915_PowerUserAccess"
+      }
+    }
+  }
+}
